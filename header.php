@@ -54,7 +54,7 @@ $sector = getSector();
                     <span class="icon-bar"></span>
                 </button>
                 <a class="navbar__phone-mobile" href="tel: <?php the_field('contact_phone', 'option'); ?>"><i class="fa fa-phone"></i></a>
-                <a class="navbar-brand navbar--primary__brand" href="<?php echo esc_url(home_url('/')); ?>"><img src="<?php echo THEME_DIRECTORY; ?>/assets/img/logo.svg" alt="Tatton Investment Management" class="js-svg"></a>
+                <a class="navbar-brand navbar--primary__brand" href="<?php echo esc_url(home_url('/')); ?>"><img src="<?php echo THEME_DIRECTORY; ?>/assets/img/ots-logo.png" alt="Tatton Onshore Tax Solutions" class="js-svg"></a>
             </div>
 
             <div class="collapse navbar-collapse" id="primary-nav">
