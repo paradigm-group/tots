@@ -315,7 +315,7 @@
 
                     var currentLocation = window.location.hostname,
                         image = {
-                            url: 'http://'+currentLocation+'/tim-assets/themes/tatton/assets/img/marker.svg',
+                            url: 'http://'+currentLocation+'/wp-content/themes/tots/assets/img/marker.svg',
                             // This marker is 20 pixels wide by 32 pixels high.
                             size: new google.maps.Size(40, 66),
                             // The origin for this image is (0, 0).
