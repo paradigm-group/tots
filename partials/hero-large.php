@@ -15,6 +15,7 @@ $image = get_sub_field('image');
 				<div class="row">
 					<div class="col-md-8">
 						<?php if (is_front_page()): ?>
+                             <p class="hidden-xs pb-xl">Building a future</p>
 						<ul class="nav section__nav section__nav--hero">
 				            <li><a class="btn btn-default btn-lg btn--investor" href="/investors/">Investor?</a></li>
 				            <li><a class="btn btn-default btn-lg btn--financial" href="/financial-advisers/">Financial Adviser?</a></li>
