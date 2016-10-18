@@ -36,7 +36,7 @@ while(have_posts())
     <div class='container mt-lg mb-lg'>
         <div class='row'>
             <div class='col-sm-6'>
-                <p>We are always happy to help. Please feel free to get in touch if you have any questions about anything you have seen on our website.</p>
+                <p>We are always happy to help. Please feel free to get in touch if you have any questions.</p>
                 <hr class="hr--emphasise">
                 <ul class="social social--contact mt-lg ">
                     <li><a href="tel:<?php the_field('contact_phone', 'option'); ?>" class="phone" title="Phone"><?php the_field('contact_phone', 'option'); ?></a></li>

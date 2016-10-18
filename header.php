@@ -35,7 +35,7 @@ $sector = getSector();
     <link href="<?php bloginfo('pingback_url'); ?>" rel="pingback">
 
     <?php if ($sector == 'contact'): ?>
-    <script src="https://maps.googleapis.com/maps/api/js"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDfdjzjPaoA2kmwbeXx-VgDxrTJA3JoQrM"></script>
     <?php endif; ?>
 
     <?php wp_head(); ?>
